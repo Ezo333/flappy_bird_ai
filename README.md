@@ -1,7 +1,7 @@
 # 🐦 Flappy Bird AI — NEAT Evolution
 
 A neural network that learns to play Flappy Bird from scratch using **NEAT** 
-(NeuroEvolution of Augmenting Topologies) — no hardcoded rules, no hand-tuned 
+(NeuroEvolution of Augmenting Topologies) no hardcoded rules, no hand-tuned 
 logic. Pure evolutionary learning.
 
 ## How It Works
